@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    padding-top: 50px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+.navbar {
+    background-color: #333;
+    color: white;
+}
+
+.portfolio-section {
+    padding: 50px 0;
+}
+
+.portfolio-section h1, .portfolio-section h2 {
+    margin-bottom: 20px;
+}
